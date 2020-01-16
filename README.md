@@ -6,9 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="Screenshot_2019-12-17-01-42-42.png">
-<img src="Screenshot_2019-12-17-01-42-48.png">
-<img src="Screenshot_2019-12-17-01-42-54.png">
+<img src="Screenshot_2019-12-17-01-42-48.png" width="300" height="600">
+<img src="Screenshot_2019-12-17-01-42-54.png" width="300" height="600">
 
 A few resources to get you started if this is your first Flutter project:
 
